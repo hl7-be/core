@@ -14,7 +14,8 @@ Description: "The recorder of the information - note that this may not always be
 * ^jurisdiction.coding[0] = $m49.htm#056
 * ^jurisdiction.coding[+] = urn:iso:std:iso:3166#BE
 * value[x] only CodeableConcept or Reference
+* value[x] ^short = "The responsability for a recording can only be taken by a natural person. The use of BeOrganisation is therefore discouraged. Use the organisation in BePractionerRole instead."
 * valueReference 0..1
-* valueReference only Reference(BePatient or BePractitioner or BeOrganization)
+* valueReference only Reference(BePatient or BePractitioner or BeOrganization or BePractitionerRole)
 * ^context.type = #element
 * ^context.expression = "DomainResource"
