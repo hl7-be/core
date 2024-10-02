@@ -8,7 +8,7 @@ Description: "Data about a patient, according to the [National Register of Perso
 * names.title 0..1 string "Title of nobility (NR 12)"
 * names.period 0..1 Period "Period of validity of the name (e.g. NR 13 Change of name, first names and title of nobility)"
 * birth 0..1 BackboneElement "Birth data"
-* birth.address 0..1 Address "Place of birth (NR 100 or NR 101)"
+* birth.place 0..1 Address "Place of birth (NR 100 or NR 101)"
 * birth.date 0..1 dateTime "Date of birth (NR 100 or NR 101)"
 * gender 0..1 BackboneElement "Gender"
 * gender.administrative 0..1 CodeableConcept "Gender (integrated in the identification no.: 000)"
