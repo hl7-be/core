@@ -8,7 +8,7 @@ This is the BE core FHIR IG
 ### Publication
 This ImplementationGuide is published in the following locations:
 
-Continuous Build: __http://build.fhir.org/ig/hl7-be/core/branches/main/index.html__  
+Continuous Build: __http://build.fhir.org/ig/hl7-be/core/index.html__  
 Canonical / permanent URL: 
 <br> </br>
 
