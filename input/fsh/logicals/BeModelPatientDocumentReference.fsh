@@ -1,4 +1,4 @@
-Logical: BeModelPatientDocument
+Logical: BeModelPatientDocumentReference
 Description: "Data about a patient related document"
 * ^extension[http://hl7.org/fhir/tools/StructureDefinition/logical-target].valueBoolean = true
 * patient 1..1 Identifier "The subject of the document"
