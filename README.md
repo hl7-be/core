@@ -18,5 +18,5 @@ Issues and change requests are managed here:
 Issues:  __https://github.com/hl7-be/core/issues__  
 Kanban board:  __https://github.com/<handle>/<repo>/projects/1__  
 
-  
+
 ---
