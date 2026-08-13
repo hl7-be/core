@@ -130,7 +130,7 @@ jurisdiction: urn:iso:std:iso:3166#BE "Belgium"
 # with supported extensions (e.g., .md/.xml) will be treated as
 # sub-pages.
 pages:
-  index.xml:
+  index.md:
     title: IG Home Page
   guidance.xml:
     title: Guidance
@@ -160,7 +160,7 @@ pages:
 # To provide a custom menu.xml file, do not include this property and
 # include a `menu.xml` file in input/includes.
 menu:
-  Home: index.html
+  Home: index.md
   Guidance: guidance.html
   Conventions: conventions.html
   Artifacts:
