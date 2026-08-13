@@ -10,14 +10,14 @@
 
 id: hl7.fhir.be.core
 canonical: https://www.ehealth.fgov.be/standards/fhir/core
-url: https://www.ehealth.fgov.be/standards/fhir/core
+#url: https://www.ehealth.fgov.be/standards/fhir/core
 name: hl7.fhir.be.core
 title: "eHealth Platform Federal Core Profiles"
 description: "eHealth Platform Federal Core Profiles"
 status: active
 license: CC0-1.0
-date: 2024-06-14
-version: 2.1.2
+date: 2026-08-21
+version: 2.2.0
 
 # Although fhirVersions is 0..* in the ImplementationGuide resource
 # it can be a single item OR and array here (but so far SUSHI only
