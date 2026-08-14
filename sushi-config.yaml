@@ -11,7 +11,7 @@
 id: hl7.fhir.be.core
 canonical: https://www.ehealth.fgov.be/standards/fhir/core
 #url: https://www.ehealth.fgov.be/standards/fhir/core
-name: hl7.fhir.be.core
+name: Core
 title: "eHealth Platform Federal Core Profiles"
 description: "eHealth Platform Federal Core Profiles"
 status: active
