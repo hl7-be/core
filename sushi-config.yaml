@@ -203,6 +203,7 @@ parameters:
   apply-publisher: true
   apply-version: true
   excludettl: true
+  path-expansion-params: ../../Parameters-terminology-expansion.json
   ipa-comparison: "{last}" # "{current}" | "{last}"
 
   
