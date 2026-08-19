@@ -6,4 +6,8 @@
 
 # If this was a real IG, there should be examples for these profiles too.  But it's not, and I'm lazy...
 The Implementation Guide contains no examples for this data type profile
+The Implementation Guide contains no examples for this extension
+
 No definition could be found for URL value 'https://www.goodhealthhospital.be/standards/fhir/NamingSystem/patientrecord'
+
+
