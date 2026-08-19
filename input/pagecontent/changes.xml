@@ -2,7 +2,11 @@
 	<html:p>
 		This provides a list of changes to the specification since its initial release
 	</html:p>
-	<a name="2.1.2">  </a><p><b>2024-06-14 v2.1.2 - eHealth Platform Federal Core Profiles</b> based on FHIR 4.0.1</p><ul><li><a href="https://github.com/hl7-be/core/releases/tag/v2.1.2">Release notes on GitHub</a></li></ul><a name="2.1.1">  </a><p><b>2024-06-14 v2.1.1 - eHealth Platform Federal Core Profiles</b> based on FHIR 4.0.1</p><ul><li><a href="https://github.com/hl7-be/core/releases/tag/v2.1.1">Release notes on GitHub</a></li></ul><a name="2.1.0">  </a><p><b>2024-05-03 v2.1.0 - eHealth Platform Federal Core Profiles</b> based on FHIR 4.0.1</p><ul><li><a href="https://github.com/hl7-be/core/releases/tag/v2.1.0">Release notes on GitHub</a></li></ul><html:p>
+	<a name="2.2.0">  </a><p><b>2026-08-19 v2.2.0 - eHealth Platform Federal Core Profiles</b> based on FHIR 4.0.1</p><ul><li><a href="https://github.com/hl7-be/core/releases/tag/v2.2.0">Release notes on GitHub</a></li></ul>
+	<a name="2.1.2">  </a><p><b>2024-06-14 v2.1.2 - eHealth Platform Federal Core Profiles</b> based on FHIR 4.0.1</p><ul><li><a href="https://github.com/hl7-be/core/releases/tag/v2.1.2">Release notes on GitHub</a></li></ul>
+	<a name="2.1.1">  </a><p><b>2024-06-14 v2.1.1 - eHealth Platform Federal Core Profiles</b> based on FHIR 4.0.1</p><ul><li><a href="https://github.com/hl7-be/core/releases/tag/v2.1.1">Release notes on GitHub</a></li></ul>
+	<a name="2.1.0">  </a><p><b>2024-05-03 v2.1.0 - eHealth Platform Federal Core Profiles</b> based on FHIR 4.0.1</p><ul><li><a href="https://github.com/hl7-be/core/releases/tag/v2.1.0">Release notes on GitHub</a></li></ul>
+	<html:p>
 		<html:b>2022-09-16 v2.0.1 - Published </html:b> based on FHIR R4
 	</html:p>
 	<html:ul>
