@@ -14,7 +14,7 @@ canonical: https://www.ehealth.fgov.be/standards/fhir/core
 name: Core
 title: "eHealth Platform Federal Core Profiles"
 description: "eHealth Platform Federal Core Profiles"
-status: active
+status: draft
 license: CC0-1.0
 date: 2026-08-21
 version: 2.2.0
@@ -60,8 +60,8 @@ jurisdiction: urn:iso:std:iso:3166#BE "Belgium"
 # The dependencies property corresponds to IG.dependsOn. The key is the
 # package id and the value is the version (or dev/current). For advanced
 # use cases, the value can be an object with keys for `uri` and `version`.
-#dependencies:
-#  hl7.fhir.us.core: 3.1.0
+dependencies:
+#  hl7.fhir.be.core-clinical: current
 #  hl7.fhir.us.mcode:
 #    id: mcode
 #    uri: http://hl7.org/fhir/us/mcode/ImplementationGuide/hl7.fhir.us.mcode
