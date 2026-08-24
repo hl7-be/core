@@ -10,14 +10,14 @@
 
 id: hl7.fhir.be.core
 canonical: https://www.ehealth.fgov.be/standards/fhir/core
-url: https://www.ehealth.fgov.be/standards/fhir/core
-name: hl7.fhir.be.core
+#url: https://www.ehealth.fgov.be/standards/fhir/core
+name: Core
 title: "eHealth Platform Federal Core Profiles"
 description: "eHealth Platform Federal Core Profiles"
 status: draft
 license: CC0-1.0
-date: 2024-06-14
-version: 2.1.2
+date: 2026-08-21
+version: 2.2.0
 
 # Although fhirVersions is 0..* in the ImplementationGuide resource
 # it can be a single item OR and array here (but so far SUSHI only
@@ -130,7 +130,7 @@ dependencies:
 # with supported extensions (e.g., .md/.xml) will be treated as
 # sub-pages.
 pages:
-  index.xml:
+  index.md:
     title: IG Home Page
   guidance.xml:
     title: Guidance
@@ -160,7 +160,7 @@ pages:
 # To provide a custom menu.xml file, do not include this property and
 # include a `menu.xml` file in input/includes.
 menu:
-  Home: index.html
+  Home: index.md
   Guidance: guidance.html
   Conventions: conventions.html
   Artifacts:
@@ -202,6 +202,8 @@ parameters:
   apply-jurisdiction: true
   apply-publisher: true
   apply-version: true
+  excludettl: true
+  path-expansion-params: ../../Parameters-terminology-expansion.json
   ipa-comparison: "{last}" # "{current}" | "{last}"
 
   
