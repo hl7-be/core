@@ -23,7 +23,7 @@ Description: "Belgian federal profile for an organization. Initially based on th
 //* identifier[SSIN].value 1..
 * identifier[EHP].system = "https://www.ehealth.fgov.be/standards/fhir/core/NamingSystem/ehp" (exactly)
 * identifier[EHP].value 1..
-* identifier obeys be-inv-NIHDI and be-inv-SSIN and be-inv-CBE
+* identifier obeys be-inv-NIHDI and be-inv-CBE
 * active ^definition = "Whether the organization's record is still in active use.\r\nIt is RECOMMENDED to keep the value ‘true’ as long as the organization is known to be active."
 * type ^slicing.discriminator.type = #value
 * type ^slicing.discriminator.path = "coding.system"
